@@ -1,0 +1,2 @@
+# schoolCheatsChromeExtension
+yeah
