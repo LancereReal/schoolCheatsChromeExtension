@@ -1,0 +1,11 @@
+{
+    "name": "Schoolcheats Extension",
+    "version": "1.0.0",
+    "description": "gay porn",
+    "manifest_version": 3,
+    "author": "Landon Capistrant",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Schoolcheats Extension"
+    }
+}
